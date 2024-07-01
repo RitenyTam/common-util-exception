@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.riteny.util.exception.config.ExceptionHandlerConfiguration\
+  ,com.riteny.util.exception.core.CommonExceptionHandler\
+  ,com.riteny.util.exception.core.api.CommonApiExceptionHandlerAgent\
+  ,com.riteny.util.exception.core.view.CommonViewExceptionHandlerAgent\
+  ,com.riteny.util.exception.config.CommonExceptionProperties
