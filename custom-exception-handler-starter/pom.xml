@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.riteny.common.util</groupId>
-    <artifactId>common-util-exception-handler-starter</artifactId>
+    <artifactId>custom-exception-handler-starter</artifactId>
     <version>1.0.0</version>
-    <name>common-util-exception-handler-starter</name>
-    <description>common-util-exception-handler-starter</description>
+    <name>multi-exception-handler-starter</name>
+    <description>multi-exception-handler-starter</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -17,7 +17,7 @@
     <dependencies>
         <dependency>
             <groupId>com.riteny.common.util</groupId>
-            <artifactId>common-util-exception-handler</artifactId>
+            <artifactId>custom-exception-handler</artifactId>
             <version>1.0.0</version>
         </dependency>
 

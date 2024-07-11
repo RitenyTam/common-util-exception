@@ -17,7 +17,7 @@
 
         <dependency>
             <groupId>com.riteny.common.util</groupId>
-            <artifactId>common-util-exception-handler</artifactId>
+            <artifactId>custom-exception-handler</artifactId>
             <version>1.0.0</version>
         </dependency>
         <dependency>
